@@ -1,0 +1,24 @@
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\I Love Radio Client.exe.config
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\I Love Radio Client.exe
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\I Love Radio Client.pdb
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\I Love Radio Client.xml
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\Interop.WMPLib.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\AxInterop.WMPLib.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.vbprojResolveAssemblyReference.cache
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\Interop.MediaPlayer.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\Interop.WMPDXMLib.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\Interop.WMPLauncher.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\Interop.WMPLib.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\AxInterop.WMPLib.dll
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.vbproj.ResolveComReference.cache
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I_Love_Radio_Client.Form1.resources
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I_Love_Radio_Client.Resources.resources
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.vbproj.GenerateResource.Cache
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.exe
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.xml
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.pdb
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.TrustInfo.xml
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\I Love Radio Client.exe.manifest
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\bin\Debug\I Love Radio Client.application
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.exe.manifest
+c:\users\pierr\documents\visual studio 2015\Projects\I Love Radio Client\I Love Radio Client\obj\Debug\I Love Radio Client.application
