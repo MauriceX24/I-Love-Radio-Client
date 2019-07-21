@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### v1.2
+### v1.3
 ___________________
 
 ## How to Install
@@ -10,6 +10,12 @@ ___________________
 - Finish!
 ___________________
 ## Changelog
+
+### v1.3
+- Added more Webstreams
+- Paste your Webstream
+- Faster CLient
+- Little Bugs removed
 
 ### v1.2
 - Effectbugs solved
