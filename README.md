@@ -3,7 +3,7 @@
 ___________________
 
 ## How to Install
-- Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to install the .ZIP file
+- Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/tree/release/Release) to install the .ZIP file
 - Create a folder in your computer and paste the .ZIP file in there
 - Rightclick on .ZIP -> Extract here
 - Now you can start the **I love Radio Client.exe**
