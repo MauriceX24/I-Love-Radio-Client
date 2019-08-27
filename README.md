@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### v1.3
+### v1.4  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it (Bug in 1.3)
 ___________________
 
 ## How to Install
