@@ -11,6 +11,13 @@ ___________________
 ___________________
 ## Changelog
 
+### v1.4.1
+- Added Close Button
+- Added WebBrowser to ILR
+- GUI Changes
+- GitHub & ILR Supportsites
+- Updater fixes
+
 ### v1.3
 - Added more Webstreams
 - Paste your Webstream
