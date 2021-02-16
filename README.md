@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### v1.4  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it (Bug in 1.3)
+### v1.5  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 ___________________
 
 ## How to Install
@@ -10,6 +10,9 @@ ___________________
 - Finish!
 ___________________
 ## Changelog
+
+### v1.5
+- Fixed Startup-Error
 
 ### v1.4.1
 - Added Close Button
