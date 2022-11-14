@@ -1,15 +1,26 @@
 # I-Love-Radio-Client
-### v1.5  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+### ✅ v2.0  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 ___________________
 
 ## How to Install
-- Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to install the .ZIP file
-- Create a folder in your computer and paste the .ZIP file in there
-- Rightclick on .ZIP -> Extract here
-- Now you can start the **I love Radio Client.exe**
-- Finish!
+
+| English | German | 
+| --------------- | --------------- | 
+| Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to download the .ZIP file | Klick [hier](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) um die .ZIP Datei zu downloaden | 
+| Create a folder in your computer and paste the .ZIP file in  | Erstelle einen neuen Ordner auf deinem PC und füge dort die .ZIP Datei ein | 
+| Rightclick on .ZIP -> Extract here | Rechtsklick auf die .ZIP -> "Hier entpacken" | 
+| Now you can start the **I love Radio Client.exe** | Jetzt kannst du die **I Love Radio Client.exe** starten | 
+| Click "More Information" -> "Run anyway"| Klick auf "Mehr Informationen" -> "Trotzdem starten" | 
+
+## Preview
+![img](https://i.imgur.com/hTEJCE8.png)
 ___________________
 ## Changelog
+
+### v2.0
+- New Design
+- Secret API
+- & more
 
 ### v1.5
 - Fixed Startup-Error
@@ -37,3 +48,6 @@ ___________________
 
 ### v1.0
 - Added radiostations
+
+## Infos
+Fan-Made! Not official from https://ilovemusic.de
