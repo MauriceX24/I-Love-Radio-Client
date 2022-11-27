@@ -22,6 +22,7 @@ ___________________
 - Fixed Volume Bug again
 - Added "Save Radio Station" when closing app
 - Added Autoplay thing
+- Added DiscordRPC
 
 ### v2.1
 - Added Updater
