@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### ✅ v2.0  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+### ✅ v2.1  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 ___________________
 
 ## How to Install
@@ -16,6 +16,12 @@ ___________________
 ![img](https://i.imgur.com/hTEJCE8.png)
 ___________________
 ## Changelog
+
+###v2.1
+- Added Updater
+- Fixed Discord Button
+- Fixed Volume
+- Fixed Channel-select thing
 
 ### v2.0
 - New Design
