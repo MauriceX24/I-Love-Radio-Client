@@ -1,5 +1,6 @@
 # I-Love-Radio-Client
 ### ✅ v2.2  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+#### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/edit/release/README.md#Errors) if you got some E-Codes
 ___________________
 
 ## How to Install
@@ -59,6 +60,10 @@ ___________________
 
 ### v1.0
 - Added radiostations
+
+## Errors
+> Updater -- Error 03: Update was downloaded & version got changed. But other files are still in the "...-release" folder.
+=> User has to move it manually to executable path.
 
 ## Infos
 Fan-Made! Not official from https://ilovemusic.de
