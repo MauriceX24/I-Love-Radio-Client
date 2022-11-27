@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### ✅ v2.1  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+### ✅ v2.2  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 ___________________
 
 ## How to Install
@@ -17,7 +17,12 @@ ___________________
 ___________________
 ## Changelog
 
-###v2.1
+### v2.2
+- Fixed Volume Bug again
+- Added "Save Radio Station" when closing app
+- Added Autoplay thing
+
+### v2.1
 - Added Updater
 - Fixed Discord Button
 - Fixed Volume
