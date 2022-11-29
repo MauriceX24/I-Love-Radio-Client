@@ -1,6 +1,6 @@
 # I-Love-Radio-Client
 # ! All new versions in branch: **release**
-### v1.3
+### [Release - Archive](https://github.com/MauriceX24/I-Love-Radio-Client/tree/release)
 ___________________
 
 ## How to Install
@@ -10,21 +10,3 @@ ___________________
 - Now you can start the **I love Radio Client.exe**
 - Finish!
 ___________________
-## Changelog
-
-### v1.3
-- Added more Webstreams
-- Paste your Webstream
-- Faster CLient
-- Little Bugs removed
-
-### v1.2
-- Effectbugs solved
-
-### v1.1
-- Added effects
-- Updater
-- Favorit-stations
-
-### v1.0
-- Added radiostations
