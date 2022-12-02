@@ -1,6 +1,6 @@
 # I-Love-Radio-Client
 ### ✅ v2.2  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
-#### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/release/README.md#Errors) if you got some E-Codes
+#### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/blob/release/README.md#errors) if you got some E-Codes
 ___________________
 
 ## How to Install
