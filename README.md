@@ -66,5 +66,8 @@ ___________________
 > Updater -- Error 03: Update was downloaded & version got changed. But other files are still in the "...-release" folder.
 => User has to move it manually to executable path.
 
+> Client -- Autoclose: Client is closing after some hours (Freezing & close without saving).
+=> Turn off your VPN connection // I'll look into it to fix it asap
+
 ## Infos
 Fan-Made! Not official from https://ilovemusic.de
