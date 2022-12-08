@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### ✅ v2.2  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+### ✅ v2.3  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 #### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/blob/release/README.md#errors) if you got some E-Codes
 ___________________
 
@@ -17,6 +17,10 @@ ___________________
 ![img](https://i.imgur.com/hTEJCE8.png)
 ___________________
 ## Changelog
+
+### v2.3
+- UI Changes
+- Fixed unexpected Shutdown every hour
 
 ### v2.2
 - Fixed Volume Bug again
