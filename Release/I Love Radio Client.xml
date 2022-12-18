@@ -47,6 +47,11 @@ I Love Radio Client
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.discord_small">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.Exo_Black">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Byte[].
@@ -62,12 +67,27 @@ I Love Radio Client
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_prev_50">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_right_button_50">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.iloveradio">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.ilrgif">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.info_small">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
@@ -83,6 +103,16 @@ I Love Radio Client
 </summary>
 </member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.rb">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.searchIcon">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.settings_small">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
@@ -109,6 +139,11 @@ https://streams.ilovemusic.de/iloveradio26.mp3 history
 https://streams.ilovemusic.de/iloveradio6.mp3 deutschrap
 https://streams.ilovemusic.de/iloveradio16.mp3 greatest hits
 https [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.website_small">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
 </members>

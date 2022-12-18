@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="I Love Radio Client.exe" version="2.3.23.15" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="I Love Radio Client.exe" version="2.4.23.16" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="51ihtfewgql_46i_icon.ico" asmv2:publisher="I Love Radio Client" asmv2:product="I Love Radio Client" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="I Love Radio Client" version="2.3.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="I Love Radio Client" version="2.4.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="I Love Radio Client.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -80,14 +80,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I Love Radio Client.exe" size="13720064">
-      <assemblyIdentity name="I Love Radio Client" version="2.3.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I Love Radio Client.exe" size="13733376">
+      <assemblyIdentity name="I Love Radio Client" version="2.4.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NWrG0FT9HQLajIjgsLP25NEBt0CVy9/3Bz8sFIN6gMo=</dsig:DigestValue>
+        <dsig:DigestValue>OrvSgjHQ19HxE8FVsrMHKj73g9Rqacfc9BnqbFnGajA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -136,13 +136,13 @@
       <dsig:DigestValue>DMUy0LTnIW9BpUiuOkahRGXOSTrcDwIKhp+59WTgTfc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="I Love Radio Client.exe.config" size="3254">
+  <file name="I Love Radio Client.exe.config" size="2330">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6pyfsJST3Af3YvOEodvwlhrtwZhmxRBfJnReWOaQIIw=</dsig:DigestValue>
+      <dsig:DigestValue>6t2TNqeSkHAyN63V1sbKAOFnMa/Ey2VoiHeczVuEgmE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
