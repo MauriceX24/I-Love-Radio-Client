@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### ✅ v2.3  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+### ✅ v2.4  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 #### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/blob/release/README.md#errors) if you got some E-Codes
 ___________________
 
