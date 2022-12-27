@@ -18,6 +18,14 @@ ___________________
 ___________________
 ## Changelog
 
+### v2.4
+- Added search button
+- Designed buttons
+- Added settings
+- Added About section
+- Added buttons to switch between channels
+- Added "Random Play" -function
+
 ### v2.3
 - UI Changes
 - Fixed unexpected Shutdown every hour
