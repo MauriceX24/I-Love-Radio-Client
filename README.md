@@ -1,5 +1,5 @@
 # I-Love-Radio-Client
-### ✅ v2.4  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
+### ✅ v2.5  Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to Download it 
 #### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/blob/release/README.md#errors) if you got some E-Codes
 ___________________
 
@@ -15,14 +15,26 @@ ___________________
 
 ## Preview
 ![img](https://i.imgur.com/hTEJCE8.png)
+
+## Custom Streams Tutorial
+1) Enter your streamlink in the textbox (Ex. ´https://link.to/stream.mp3´
+2) Click "+" and the stream will be saved
+3) Close settings and press the "Eye"-Icon in the main form
+4) Select your stream and press play
 ___________________
 ## Changelog
+
+### 2.5
+- Added shortcut maker
+- Added custom streams
+- Added settings for DiscordRPC
+- Small improvements
 
 ### v2.4
 - Added search button
 - Designed buttons
 - Added settings
-- Added About section
+- Added about section
 - Added buttons to switch between channels
 - Added "Random Play" -function
 
