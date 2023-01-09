@@ -1,5 +1,9 @@
-[08.01.2023]
-Da da da daaaa... Mein RTL
+[09.01.2023]
+Neuste Version auf GitHub (2.5.1)
+Ich hab neben den Fehlern, die behoben habe, mittlerweile noch
+mehr Fehler reingemacht.
 
 TODO:
-- ZZZzzzzZZ
+- customStations.json erstellen (wenn nötig)
+- Versionsanzeige auf 3 Kommastellen anpassen
+- Backup von custom Stationen machen, wenn Update laeuft
