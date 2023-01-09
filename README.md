@@ -45,6 +45,12 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 - Added settings for DiscordRPC
 - Small improvements
 
+Fixed in v2.5.1
+- Fixed 'spaces' in custom stations
+- ↳ Url block | Station name gets replaced to '-'
+- Fixed customStation.json (If file got deleted)
+- Fixed error if customStation.json was empty
+
 #### v2.4
 - Added search button
 - Designed buttons
