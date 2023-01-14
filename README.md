@@ -51,6 +51,13 @@ Fixed in v2.5.1
 - Fixed customStation.json (If file got deleted)
 - Fixed error if customStation.json was empty
 
+Fixed in v2.5.2
+- Fixed error if version was not able to show
+- Fixed customStations.json errors
+- Added Backups for updates
+- Updater got some improvements
+- New UI for Updater
+
 #### v2.4
 - Added search button
 - Designed buttons
