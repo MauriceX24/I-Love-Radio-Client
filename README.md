@@ -2,7 +2,7 @@
 # I Love Radio Client
 
 A Fan-Made Client for streaming web-radio. Based on vb.net.
-| ![Shields.io](https://img.shields.io/github/v/release/MauriceX24/I-Love-Radio-Client?display_name=release&label=Latest%20Client%20Version&logo=Windows) | ![Shields.io](https://img.shields.io/github/release-date/MauriceX24/I-Love-Radio-Client?logo=GitHub&label=Release%20Date) | ![Shields.io](https://img.shields.io/github/repo-size/MauriceX24/I-Love-Radio-Client?label=Project%20Size&logo=GitHub) |
+| ![Shields.io](https://img.shields.io/github/v/release/MauriceX24/I-Love-Radio-Client?display_name=release&label=Latest%20Client%20Version&logo=Windows) | ![Shields.io](https://img.shields.io/github/last-commit/MauriceX24/I-Love-Radio-Client/release?label=Latest%20Update&logo=GitHub) | ![Shields.io](https://img.shields.io/github/repo-size/MauriceX24/I-Love-Radio-Client?label=Project%20Size&logo=GitHub) |
 | ----- | ----- | ----- |
 #### 🔨 Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/blob/release/README.md#-errors--issues) if you got some Errors
 
