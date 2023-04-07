@@ -39,6 +39,13 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 
 ## 📃 Versions / Changelog
 
+#### v2.7
+- Fixed some issues
+- Larger design
+- Added 3 new stations
+- Fixed some channels
+- Fixed some code lines (is working better now)
+
 #### v2.6
 - Added bigFM Station
 - Added form to choose between stations 
