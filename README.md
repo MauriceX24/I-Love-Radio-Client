@@ -134,7 +134,7 @@ Fixed in v2.5.2 (& 2.5.3)
 
 You got an error code? Maybe you'll find a reason for it here:
 
-**Updater**
+### **Updater**
 ```bash
 > Updater -- Error 03: Update was downloaded 
 & version got changed. But other files are still in the "...-release" folder.
@@ -147,11 +147,22 @@ You got an error code? Maybe you'll find a reason for it here:
 => Create a 'I Love Radio.exe' & try again
 
 ```
-**Client**
+### **Client**
 ```bash
 > Client -- Autoclose: Client is closing after some hours 
 (Freezing & close without saving).
 => Turn off your VPN connection // Got fixed btw
+```
+**Custom Stations Errors
+```bash
+Failed! (1)
+> Input is empty
+Failed! (2)
+> Link does not start with 'https'
+Failed! (3)
+> Link has weird symbols
+Failed! (4)
+> Link does not end with .mp3
 ```
 
 ## 🔹 Infos
