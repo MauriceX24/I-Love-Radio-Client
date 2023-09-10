@@ -14,7 +14,10 @@
   "Snoop Dogg": "https://stream.bigfm.de/snoopdogg/aac-64/stream.bigfm.de/play.m3u",
   "Muzyka": "https://stream.bigfm.de/russia/mp3-128/stream.bigfm.de/play.m3u",
   "New Clear Radio": "http://live.ncradio.fm/320",
-  "X": "X",
-  "X": "X",
+  "NME 1": "http://listen-nme.sharp-stream.com/nme1high.mp3",
+  "PVR Rap": "http://94.130.242.5:8016/stream",
+  "PVR Techno": "http://94.130.242.5:8046/stream",
+  "PVR Psytrance": "http://94.130.242.5:8010/stream",
+  "PVR Reggae": "http://94.130.242.5:8000/stream",
   "X": "X",
 }
