@@ -18,7 +18,14 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 
 ## 📷 Preview
 ![img](https://i.imgur.com/hTEJCE8.png)
-    
+
+## 🔰 Radio360
+
+#### What is Radio360?
+> Radio360 is a community generated station. Every channel can be added to this station when you're using
+> the 'Wunschsender' button.
+> Just answer to the questions which will popup, and if it is possible the channel might be added next day.
+
 ## 🔰 Custom Streams Demo
 
 1) Get a streamlink (Recommend that it ends with ".mp3")
@@ -38,6 +45,13 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 
 
 ## 📃 Versions / Changelog
+
+#### v2.8
+- Added Radio360
+- Added some channels to Radio360
+- Added button to add a new channel
+- Improved DiscordRPC
+- Improved custom stations (for more streams)
 
 #### v2.7
 - Fixed some issues
@@ -160,11 +174,10 @@ Failed! (1)
 Failed! (2)
 > Link does not start with 'https'
 Failed! (3)
-> Link has weird symbols
+> Link has illegal symbols
 Failed! (4)
 > Link does not end with .mp3
 ```
 
 ## 🔹 Infos
 Fan-Made! Not official from https://ilovemusic.de
-
