@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="I Love Radio Client.exe" version="2.7.23.26" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="I Love Radio Client.exe" version="2.8.23.29" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="51ihtfewgql_46i_icon.ico" asmv2:publisher="I Love Radio Client" asmv2:product="I Love Radio Client" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="I Love Radio Client" version="2.7.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="I Love Radio Client" version="2.8.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="I Love Radio Client.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YUmkHHoZCmXCPPj3pZlJ+D9DKo9qcUFBFVjer/R34HU=</dsig:DigestValue>
+        <dsig:DigestValue>5+Ek8JuTd5uzZx+3TWD7dle5ZZ0+kz8NWGV185OsAHY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -69,25 +69,25 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DiscordRPC.dll" size="83968">
-      <assemblyIdentity name="DiscordRPC" version="1.1.3.18" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="DiscordRPC" version="1.2.1.24" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AIPbElCZHgbKMAF8dXSSFGOSBoHo9C7Rsvza2hUVMmw=</dsig:DigestValue>
+        <dsig:DigestValue>JcOfkfc32ABAxyyeP5XbD+zhyWU/UBgorcFs+x7FnSY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I Love Radio Client.exe" size="13784576">
-      <assemblyIdentity name="I Love Radio Client" version="2.7.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I Love Radio Client.exe" size="13999104">
+      <assemblyIdentity name="I Love Radio Client" version="2.8.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bm8qr2o0i68te7GYmDkB2v0yAZL/JyrRoGlf39eeBs4=</dsig:DigestValue>
+        <dsig:DigestValue>ll4cbm+4TgM5jsZPutFLfwv1yiS0c/6Wsbx7AIHQVQw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -99,7 +99,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2Pt9VW7qpaI8z/LOOgZHkp7ydSjmkII4ay5nF/UrKAU=</dsig:DigestValue>
+        <dsig:DigestValue>/UmxVTh4C0fGMZdkboI4hLkRmqhEpjaJlk+Pppd77Ok=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
