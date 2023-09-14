@@ -19,5 +19,8 @@
   "PVR Techno": "http://94.130.242.5:8046/stream",
   "PVR Psytrance": "http://94.130.242.5:8010/stream",
   "PVR Reggae": "http://94.130.242.5:8000/stream",
-  "X": "X",
+  "bigB Kpop": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+  "bigB Cpop": "https://antares.dribbcast.com/proxy/cpop?mp=/s",
+  "bigB Jpop": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+  "RMF Maxxx": "http://31.192.216.5/rmf_maxxx"
 }
