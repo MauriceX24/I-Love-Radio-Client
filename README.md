@@ -52,7 +52,7 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 - Added button to add a new channel
 - Improved DiscordRPC
 - Improved custom stations (for more streams)
--- Updater will now start as admin
+- - Updater will now start as admin
 
 #### v2.7
 - Fixed some issues
