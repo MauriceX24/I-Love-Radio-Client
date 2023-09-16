@@ -7,7 +7,7 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 
 ## Installation
 
-#### Download setup: [Setup](https://drive.proton.me/urls/GF5FQPHX44#h42xs4lo7ill) | [Setup 2](https://drive.proton.me/urls/HPJE470N8M#2sEupEncU7hI)
+#### Download setup: [Setup](https://drive.proton.me/urls/73B1P95QM0#sNRRlVi5Uk37)
 | English | German | 
 | --------------- | --------------- | 
 | Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to download the .ZIP file | Klick [hier](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) um die .ZIP Datei zu downloaden | 
