@@ -7,7 +7,7 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 
 ## Installation
 
-#### Download setup: [Setup](https://drive.proton.me/urls/73B1P95QM0#sNRRlVi5Uk37)
+#### Download: [I Love Radio Client Installer.exe](https://drive.proton.me/urls/FM9W4V16BW#a623HRsf4PYw)
 | English | German | 
 | --------------- | --------------- | 
 | Click [here](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) to download the .ZIP file | Klick [hier](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip) um die .ZIP Datei zu downloaden | 
@@ -46,12 +46,13 @@ A Fan-Made Client for streaming web-radio. Based on vb.net.
 
 ## 📃 Versions / Changelog
 
-#### v2.8
+#### v2.8.1
 - Added Radio360
 - Added some channels to Radio360
 - Added button to add a new channel
 - Improved DiscordRPC
 - Improved custom stations (for more streams)
+-- Updater will now start as admin
 
 #### v2.7
 - Fixed some issues
