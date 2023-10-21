@@ -28,5 +28,15 @@
   "HardbaseFM": "http://listen.hardbase.fm/tunein-mp3",
   "TrancebaseFM": "http://listen.trancebase.fm/tunein-mp3",
   "ClubtimeFM": "http://listen.clubtime.fm/tunein-mp3",
+  "NRJ Dance": "https://edge07.streamonkey.net/energy-dance/stream/mp3",
+  "NRJ 90s": "https://scdn.nrjaudio.fm/de/56246/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs9&adws_out_3",
+  "NRJ 2000s": "https://edge70.streamonkey.net/energy-2000erhits",
+  "NRJ 2010s": "https://edge06.streamonkey.net/energy-2010erhits/stream/mp3?aggregator=Shorty",
+  "NRJ Hitsremix": "https://scdn.nrjaudio.fm/de/56247/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs7&adws_out_3",
+  "NRJ Acoustic": "https://scdn.nrjaudio.fm/de/33051/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs8&adws_out_1",
+  "NRJ Latino": "https://scdn.nrjaudio.fm/de/33069/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs11&adws_out_2",
+  "NRJ Disney": "https://edge14.streamonkey.net/energy-disneyhits?aggregator=short",
+  "NRJ Deephouse": "https://scdn.nrjaudio.fm/de/56249/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs10&adws_out_3",
+  "NRJ K-Pop": "https://edge11.streamonkey.net/energy-kpop/stream/mp3?aggregator=Shorty",
   "X": "https://lordmaurice.xyz/xbone/testKanal.m4a"
 }
