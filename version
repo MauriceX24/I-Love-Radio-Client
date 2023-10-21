@@ -1,1 +1,98 @@
-1.6
+## 📃 Versions / Changelog
+
+#### v2.8.1
+- Added Radio360
+- Added some channels to Radio360
+- Added button to add a new channel
+- Improved DiscordRPC
+- Improved custom stations (for more streams)
+- - Updater will now start as admin
+
+#### v2.7
+- Fixed some issues
+- Larger design
+- Added 3 new stations
+- Fixed some channels
+- Fixed some code lines (is working better now)
+
+#### v2.6
+- Added bigFM Station
+- Added form to choose between stations 
+- DiscordRPC improvements
+- Added Log4Net.dll for logging errors
+- Some improvements (thanks @NightcoreLena)
+
+#### v2.5
+- Added shortcut maker
+- Added custom streams
+- Added settings for DiscordRPC
+- Small improvements
+
+Fixed in v2.5.1
+- Fixed 'spaces' in custom stations
+- ↳ Url block | Station name gets replaced to '-'
+- Fixed customStation.json (If file got deleted)
+- Fixed error if customStation.json was empty
+
+Fixed in v2.5.2 (& 2.5.3)
+- Fixed error if version was not able to show
+- Fixed customStations.json errors
+- Added Backups for updates
+- Updater got some improvements
+- New UI for Updater
+
+#### v2.4
+- Added search button
+- Designed buttons
+- Added settings
+- Added about section
+- Added buttons to switch between channels
+- Added "Random Play" -function
+
+#### v2.3
+- UI Changes
+- Fixed unexpected Shutdown every hour
+
+#### v2.2
+- Fixed Volume Bug again
+- Added "Save Radio Station" when closing app
+- Added Autoplay thing
+- Added DiscordRPC
+
+#### v2.1
+- Added Updater
+- Fixed Discord Button
+- Fixed Volume
+- Fixed Channel-select thing
+
+#### v2.0
+- New Design
+- Secret API
+- & more
+
+#### v1.5
+- Fixed Startup-Error
+
+#### v1.4.1
+- Added Close Button
+- Added WebBrowser to ILR
+- GUI Changes
+- GitHub & ILR Supportsites
+- Updater fixes
+
+#### v1.3
+- Added more Webstreams
+- Paste your Webstream
+- Faster CLient
+- Little Bugs removed
+
+#### v1.2
+- Effectbugs solved
+
+#### v1.1
+- Added effects
+- Updater
+- Favorit-stations
+
+#### v1.0
+- Added radiostations
