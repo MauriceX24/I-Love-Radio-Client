@@ -19,9 +19,9 @@ A fan-made Client for streaming web-radio on Windows.
 
 |Version| ![GitHub release (with filter)](https://img.shields.io/github/v/release/MauriceX24/I-Love-Radio-Client?logo=windows10&label=version) | [Changelog](https://raw.githubusercontent.com/MauriceX24/I-Love-Radio-Client/resources/version-changelog "Click this holy link") |
 |---|---| ---|
-|Download|[Setup.exe](https://lordmaurice.xyz)|
-| | Updater.zip |
-| | Client.zip|
+|Download|[Setup.exe](https://drive.proton.me/urls/MYE1WHHAN0#EW1SCV4dsGaY)|
+| | [Updater.zip](https://drive.proton.me/urls/T8PJVG8NRG#MeulEB2cDKAu) |
+| | [Client.zip](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip)|
 
 
 
