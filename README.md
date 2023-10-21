@@ -1,5 +1,5 @@
 
-# I Love Radio Clinet
+# I Love Radio Client
 
 A fan-made Client for streaming web-radio on Windows.
 
