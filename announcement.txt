@@ -1,17 +1,6 @@
-[21.10.2023]
-Feliz Semana de Halloween
-Bonne semaine d'Halloween
-Frohe Halloween-Woche
-Buona settimana di Halloween
-Fijne Halloween Week
-Glad Halloweenvecka
-God Halloween-uke
-Glædelig Halloween Uge
-Счастливой недели Хэллоуина
-Wànshèngjié zhōu kuàilè
-Happīharou~īn shūkan
-Haepi hallowin ju
-Mutlu Halloween Haftası
+[01.11.2023]
+Da da da daaa... mein eR tee älll
 
 TODO:
 - Stummschalt' Button
+- Speichern der letzten Station + Channel
