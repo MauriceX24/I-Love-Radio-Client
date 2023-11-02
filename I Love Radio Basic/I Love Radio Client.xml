@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+I Love Radio Client
+</name>
+</assembly>
+<members>
+<member name="T:I_Love_Radio_Client.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.blur_background_1">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.blur_background_2">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.blur_background_3">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.check">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.circle_play">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.discord_small">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.Exo_Black">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.ezgif_4_55830fbf23">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.High_Priority_96px">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_hide_50_inactive">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_hide_active">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_prev_50">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_right_button_50">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.iloveradio">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.ilrgif">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.info_small">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.list_normal">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.list_working">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.OIG">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.OIG_vd2qr">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.pause">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.play">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.rb">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.searchIcon">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.settings_small">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.star_off">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.star_on">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.station">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die https://streams.ilovemusic.de/iloveradio1.mp3 1
+https://streams.ilovemusic.de/iloveradio2.mp3 dance
+https://streams.ilovemusic.de/iloveradio29.mp3 hbz
+https://streams.ilovemusic.de/iloveradio17.mp3 chillhop
+https://streams.ilovemusic.de/iloveradio36.mp3 dance 2022
+https://streams.ilovemusic.de/iloveradio103.mp3 dance first
+https://streams.ilovemusic.de/iloveradio26.mp3 history
+https://streams.ilovemusic.de/iloveradio6.mp3 deutschrap
+https://streams.ilovemusic.de/iloveradio16.mp3 greatest hits
+https [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.website_small">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:I_Love_Radio_Client.radioListClass.radio_Select(System.String)">
+ <summary>
+ RadioName
+ </summary>
+ <returns>Return a Radio (bigFM, ILM, etc)</returns>
+</member>
+</members>
+</doc>
