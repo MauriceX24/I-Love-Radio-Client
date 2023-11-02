@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="I Love Radio Client.exe" version="2.8.23.29" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="I Love Radio Client.exe" version="2.8.23.32" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="51ihtfewgql_46i_icon.ico" asmv2:publisher="I Love Radio Client" asmv2:product="I Love Radio Client" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="I Love Radio Client" version="2.8.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="I Love Radio Client" version="2.8.4.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="I Love Radio Client.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -80,14 +80,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I Love Radio Client.exe" size="13999104">
-      <assemblyIdentity name="I Love Radio Client" version="2.8.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I Love Radio Client.exe" size="14000128">
+      <assemblyIdentity name="I Love Radio Client" version="2.8.4.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ll4cbm+4TgM5jsZPutFLfwv1yiS0c/6Wsbx7AIHQVQw=</dsig:DigestValue>
+        <dsig:DigestValue>XV2m9pM0j3tZHOPpYG2Fj8V2xH8fpKI1gRJT7rJ05ek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
