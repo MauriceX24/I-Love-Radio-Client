@@ -19,9 +19,9 @@ A fan-made Client for streaming web-radio on Windows.
 
 |Version| ![GitHub release (with filter)](https://img.shields.io/github/v/release/MauriceX24/I-Love-Radio-Client?logo=windows10&label=version) | [Changelog](https://raw.githubusercontent.com/MauriceX24/I-Love-Radio-Client/resources/version-changelog "Click this holy link") |
 |---|---| ---|
-|Download|[Setup.exe](https://drive.proton.me/urls/MYE1WHHAN0#EW1SCV4dsGaY)|
-| | [Updater.zip](https://drive.proton.me/urls/T8PJVG8NRG#MeulEB2cDKAu) |
-| | [Client.zip](https://github.com/MauriceX24/I-Love-Radio-Client/archive/release.zip)|
+|Download|[Setup.exe](https://drive.proton.me/urls/V5GM0GF96W#7GbdRsnytIlp)|
+| | [Updater.zip](https://drive.proton.me/urls/BZGSQMHQ6C#D0mrJ8K8QhoR) |
+| | [Client.zip](https://github.com/MauriceX24/I-Love-Radio-Client/archive/refs/heads/basic.zip)|
 
 
 
@@ -42,18 +42,12 @@ A fan-made Client for streaming web-radio on Windows.
 
 <details>
 <summary>Discord Richpresence?</summary>
-Yep. This Client works with Discord, for 'I Love Music' only.
-</details>
-
-<details>
-<summary>What is Radio360</summary>
-Everyone can request a Radiostation for this channel.
-So I would call it: A big Communitybased station
+Yep. This Client works with Discord. It shows Song, Artist, Channel and Listeners.
 </details>
 
 <details>
 <summary>Is this an official app?</summary>
-Noup. I just thought it would be cool while playing Minecraft.
+Noup. But I guess I am an official partner of their Discord.
 </details>
 
 | ![Shields.io](https://img.shields.io/github/v/release/MauriceX24/I-Love-Radio-Client?display_name=release&label=Latest%20Client%20Version&logo=Windows) | ![Shields.io](https://img.shields.io/github/last-commit/MauriceX24/I-Love-Radio-Client/release?label=Latest%20Update&logo=GitHub) | ![Shields.io](https://img.shields.io/github/repo-size/MauriceX24/I-Love-Radio-Client?label=Project%20Size&logo=GitHub) | ![](https://img.shields.io/github/downloads/MauriceX24/I-Love-Radio-Client/total?style=flat&logo=files&logoColor=white&label=Downloads&color=blue) |
