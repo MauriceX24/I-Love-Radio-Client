@@ -3,14 +3,14 @@
 
 A fan-made Client for streaming web-radio on Windows.
 
+### You can choose between
+- [I Love Radio Client **Basic**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/basic) (Only 'I Love Music streams')
+- [I Love Radio Client **Plus**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/release) (More Stations + 'I Love Music')
+
 
 ## Radio Stations
 
- - [I Love Music](https://ilovemusic.de) (includes DiscordRPC)
- - [bigFM](https://www.bigfm.de)
- - Radio 360
-
-
+ - [I Love Music](https://ilovemusic.de) (Includes DiscordRPC)
 
 ## Installation
 
