@@ -4,7 +4,7 @@
 A fan-made Client for streaming web-radio on Windows.
 
 ### You can choose between
-- [I Love Radio Client **Basic**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/basic) (Only 'I Love Music streams')
+- [I Love Radio Client **Basic**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/basic) (Only 'I Love Music streams') _You're here_
 - [I Love Radio Client **Plus**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/release) (More Stations + 'I Love Music')
 
 
