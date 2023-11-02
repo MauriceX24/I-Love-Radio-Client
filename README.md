@@ -1,5 +1,5 @@
 
-# I Love Radio Client
+# I Love Radio Client **Basic**
 
 A fan-made Client for streaming web-radio on Windows.
 
