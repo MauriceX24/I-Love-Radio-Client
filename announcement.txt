@@ -1,5 +1,10 @@
-[01.11.2023]
-Da da da daaa... mein eR tee älll
+[02.11.2023]
+Es gibt zwei Versionen von diesem Client.
+==> Plus
+[ Der Standard Client mit 3 Stationen
+==> Basic
+[ Die App nur für 'I Love Music' streams
+[ und DiscordRPC Funktion
 
 TODO:
 - Stummschalt' Button
