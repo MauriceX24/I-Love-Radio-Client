@@ -2,7 +2,7 @@
 Es gibt ab heute zwei Versionen von diesem Client.
 
 ==> Plus
-[ Der Standard Client mit 3 Stationen
+[ Der Standard Client mit 3 Stationen und neuem Icon
 
 ==> Basic
 [ Die App nur für 'I Love Music' streams
