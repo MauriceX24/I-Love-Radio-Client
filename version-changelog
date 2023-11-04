@@ -1,12 +1,19 @@
 ## 📃 Versions / Changelog
 
-#### v2.8.1
+#### v2.9
+- Added 'Random Play' function with more stations
+- Added 'Auto Play' function for more channels
+- Added new icon
+- Added option to search for a song on YouTube and Spotify (Basic)
+
+#### v2.8.x
 - Added Radio360
 - Added some channels to Radio360
 - Added button to add a new channel
 - Improved DiscordRPC
 - Improved custom stations (for more streams)
 - - Updater will now start as admin
+- - - Fixed UTF8 format
 
 #### v2.7
 - Fixed some issues
