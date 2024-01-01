@@ -1,5 +1,9 @@
 ## 📃 Versions / Changelog
 
+### v2.10
+- Added colors for GUI
+- Fixed a issue with 'Random Play'
+
 #### v2.9
 - Added 'Random Play' function with more stations
 - Added 'Auto Play' function for more channels
