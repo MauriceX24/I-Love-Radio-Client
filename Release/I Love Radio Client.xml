@@ -22,6 +22,51 @@ I Love Radio Client
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
 </member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_black">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_blue">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_green">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_orange">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_red">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_turkis">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_violet">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_white">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.b_yellow">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.blur_background_1">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
@@ -142,27 +187,12 @@ I Love Radio Client
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:I_Love_Radio_Client.My.Resources.Resources.rb">
-<summary>
-  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
-</summary>
-</member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.searchIcon">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.settings_small">
-<summary>
-  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:I_Love_Radio_Client.My.Resources.Resources.star_off">
-<summary>
-  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:I_Love_Radio_Client.My.Resources.Resources.star_on">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
