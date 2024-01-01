@@ -1,13 +1,4 @@
-[02.11.2023]
-Es gibt ab heute zwei Versionen von diesem Client.
-
-==> Plus
-[ Der Standard Client mit 3 Stationen und neuem Icon
-
-==> Basic
-[ Die App nur für 'I Love Music' streams
-[ und DiscordRPC Funktion
-
-TODO:
-- Stummschalt' Button
-- Speichern der letzten Station + Channel
+[01.01.2024]
+Neues Jahr, neues Glück.
+Mögen all' unsere offenen wünsche erfüllt, und Träume nicht platzen.
+Je mehr Motivation für die eigene Energie, um andere zu motivieren, desto mehr Energie für deine innere Kraft.
