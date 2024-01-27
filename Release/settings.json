@@ -1,0 +1,8 @@
+{
+  "latest-channel": "I Love Radio",
+  "autoplay": false,
+  "play-random": false,
+  "rpc-channel": true,
+  "rpc-song": true,
+  "rpc-listeners": false
+}
