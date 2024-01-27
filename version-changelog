@@ -1,5 +1,10 @@
 ## 📃 Versions / Changelog
 
+### v2.10.1
+- Fixed issue while clicking "About" button
+- Fixed "Speichern" button in settings
+- Updated some radio channels
+
 ### v2.10
 - Added colors for GUI
 - Fixed a issue with 'Random Play'
