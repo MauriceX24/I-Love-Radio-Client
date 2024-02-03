@@ -3,10 +3,6 @@
 
 A fan-made Client for streaming web-radio on Windows.
 
-> [!CAUTION]
-> The Client got a new bug which I could not fix yet. <br/>
-> It happens when you switch the stations. It was first seen in v2.10. <br/>
-> Working on a fix...
 
 ### You can choose between
 - [I Love Radio Client **Basic**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/basic) (Only 'I Love Music streams')
