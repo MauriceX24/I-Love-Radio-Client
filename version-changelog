@@ -1,5 +1,9 @@
 ## 📃 Versions / Changelog
 
+### v2.10.2
+- Added 2 new channels to I Love Music
+- Fixed random crash while switching stations
+
 ### v2.10.1
 - Fixed issue while clicking "About" button
 - Fixed "Speichern" button in settings
