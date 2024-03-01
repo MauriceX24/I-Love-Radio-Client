@@ -92,6 +92,11 @@ I Love Radio Client
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.close">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.discord_small">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
