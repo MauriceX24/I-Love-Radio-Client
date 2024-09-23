@@ -6,13 +6,14 @@ A fan-made Client for streaming web-radio on Windows.
 
 ### You can choose between
 - [I Love Radio Client **Basic**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/basic) (Only 'I Love Music streams')
-- [I Love Radio Client **Plus**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/release) (More Stations + 'I Love Music') _You're here_
+- [I Love Radio Client **Plus**](https://github.com/MauriceX24/I-Love-Radio-Client/tree/release) (More Stations + 'I Love Music') ⬅ _You're here_
 
 
 ## Radio Stations
 
  - [I Love Music](https://ilovemusic.de) (includes DiscordRPC)
  - [bigFM](https://www.bigfm.de)
+ - [BigTimeFM](https://bigtimefm.de)
  - Radio 360
 
 
@@ -47,7 +48,7 @@ A fan-made Client for streaming web-radio on Windows.
 
 <details>
 <summary>Discord Richpresence?</summary>
-Yep. This Client works with Discord, for 'I Love Music' only.
+Yep. This Client works with Discord, for 'I Love Music' and 'BigTimeFM' only.
 </details>
 
 <details>
@@ -59,6 +60,12 @@ So I would call it: A big Communitybased station
 <details>
 <summary>Is this an official app?</summary>
 Noup. I just thought it would be cool while playing Minecraft.
+</details>
+
+<details>
+<summary>Why it's not open source?</summary>
+Everything is open source if you know Assembly.
+Atm there is only the first verion in this GitHub stored. 
 </details>
 
 | ![Shields.io](https://img.shields.io/github/v/release/MauriceX24/I-Love-Radio-Client?display_name=release&label=Latest%20Client%20Version&logo=Windows) | ![Shields.io](https://img.shields.io/github/last-commit/MauriceX24/I-Love-Radio-Client/release?label=Latest%20Update&logo=GitHub) | ![Shields.io](https://img.shields.io/github/repo-size/MauriceX24/I-Love-Radio-Client?label=Project%20Size&logo=GitHub) | ![](https://img.shields.io/github/downloads/MauriceX24/I-Love-Radio-Client/total?style=flat&logo=files&logoColor=white&label=Downloads&color=blue) |
