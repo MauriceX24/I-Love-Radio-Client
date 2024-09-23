@@ -1,5 +1,13 @@
 ## 📃 Versions / Changelog
 
+### v2.11 
+- Added BigTimeFM as new station
+- Upgraded to .NET 4.7.2
+
+### v2.10.3
+- Removed the function to load fonts because of the issue since v2.10
+Fixed it, but now you have the choice to install the font on your device.
+
 ### v2.10.2
 - Added 2 new channels to I Love Music
 - Fixed random crash while switching stations
