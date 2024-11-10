@@ -17,9 +17,9 @@ Hast du eine Idee für eine neue Funktion?
 Schreib mir in Discord oder erstell ein 'Issue' auf GitHub.
 
 ~ Cheers :)
-===============================================================
+========================================
 
-Erinnerung:
+[] --- // Erinnerung \\ --- []:
 Es gibt 2 Apps.
 I Love Radio Basic - Gefüllt mit ILoveMusic.de
 und
