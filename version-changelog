@@ -1,6 +1,11 @@
 ## 📃 Versions / Changelog
 
 ### v2.11 
+- Fixed some channels
+- Changed UI a bit
+- Added like button (Basic)
+
+### v2.11 
 - Added BigTimeFM as new station
 - Upgraded to .NET 4.7.2
 
