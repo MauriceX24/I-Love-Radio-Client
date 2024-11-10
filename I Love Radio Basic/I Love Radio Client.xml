@@ -67,6 +67,11 @@ I Love Radio Client
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.black_heart">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.blur_background_1">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
@@ -118,6 +123,11 @@ I Love Radio Client
 </summary>
 </member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_hide_active">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.icons8_history_60">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
@@ -188,6 +198,11 @@ I Love Radio Client
 </summary>
 </member>
 <member name="P:I_Love_Radio_Client.My.Resources.Resources.rb">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:I_Love_Radio_Client.My.Resources.Resources.red_heart">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
