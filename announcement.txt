@@ -1,26 +1,11 @@
-[25.05.2024]
-Unbefugten ist es verboten Unfug zu treiben.
-~ der Befugte
+[15.12.2024]
 
-Im grossen und ganzen ist die Anwendung mittlerweile gut 
-aufgebaut.
-Ich starte die App, starte Minecraft und gönn mir einen
-angenehmen Sonntag - Ja vom Design her könnte man noch was machen,
-aber momentan hatte ich nicht die motivation dies zu erlernen.
-Bis auf das hinzufügen von neuen Channel, wird es wohl erstmal so
-bleiben. 
+Ich wünsche euch allen frohe Festtage und das beste im Leben.
 
-Hast du einen Channel gefunden für Radio360?
-Klick auf "Settings" > "Wunschsender" & folge den Anweisungen.
+I wish you all happy holidays and the best in life.
 
-Hast du eine Idee für eine neue Funktion?
-Schreib mir in Discord oder erstell ein 'Issue' auf GitHub.
+Желаю вам всем счастливых праздников и всего наилучшего в жизни.
 
-~ Cheers :)
-========================================
+Ik wens jullie allemaal fijne feestdagen en het allerbeste in het leven.
 
-[] --- // Erinnerung \\ --- []:
-Es gibt 2 Apps.
-I Love Radio Basic - Gefüllt mit ILoveMusic.de
-und
-I Love Radio Plus - Gefüllt mit verschiedenen Stationen
+~ Cheers
