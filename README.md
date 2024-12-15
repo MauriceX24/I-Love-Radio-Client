@@ -13,7 +13,7 @@ A fan-made Client for streaming web-radio on Windows.
 
  - [I Love Music](https://ilovemusic.de) (includes DiscordRPC)
  - [bigFM](https://www.bigfm.de)
- - [BigTimeFM](https://bigtimefm.de)
+ - [BigTimeFM](https://bigtimefm.de) (includes DiscordRPC)
  - Radio 360
 
 
